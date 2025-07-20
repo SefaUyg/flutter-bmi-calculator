@@ -35,7 +35,7 @@ This app allows users to input their gender, height, weight, and age, then insta
 
 🚀 Getting Started
 
-🔹git clone https://github.com/yourusername/bmi_calculator_flutter.git
+🔹git clone https://https://github.com/SefaUyg/flutter-bmi-calculator/
 
 🔹cd bmi_calculator_flutter
 
